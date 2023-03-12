@@ -1,0 +1,21 @@
+# 应用名称
+spring:
+  application:
+    name: eureka-consumer-hystrix-dashboar
+# 应用服务 WEB 访问端口
+server:
+  port: 9003
+
+##暴露全部的监控信息
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: hystrix.stream
+hystrix:
+  dashboard:
+    proxy-stream-allow-list: localhost
+
+
+
+

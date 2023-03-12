@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="05.3-eureka-consumer-hystrix-dashboar" />
+        <module name="01-eureka" />
+        <module name="05.2-eureka-consumer-feign-hystirx" />
+        <module name="01-eureka-server-b" />
+        <module name="04-eureka-consumer-feign" />
+        <module name="02-eureka-client-a" />
+        <module name="05.1-eureka-hystrix-payment" />
+        <module name="02-eureka-client-b" />
+        <module name="eureka-server" />
+        <module name="03-eureka-consumer" />
+        <module name="eureka-server-b" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="05.2-eureka-consumer-feign-hystirx" target="1.8" />
+      <module name="eureka-consumer-hystrix-dashboar" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="02-eureka-client-a" options="-parameters" />
+      <module name="02-eureka-client-b" options="-parameters" />
+      <module name="03-eureka-consumer" options="-parameters" />
+      <module name="04-eureka-consumer-feign" options="-parameters" />
+      <module name="05.1-eureka-hystrix-payment" options="-parameters" />
+      <module name="05.2-eureka-consumer-feign-hystirx" options="-parameters" />
+      <module name="05.3-eureka-consumer-hystrix-dashboar" options="-parameters" />
+      <module name="eureka-consumer-hystrix-dashboar" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="eureka-server-b" options="-parameters" />
+    </option>
+  </component>
+</project>

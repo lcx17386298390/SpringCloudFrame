@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-eureka/05-eureka-consumer-feign-hystrix-order/05.2-eureka-consumer-feign-hystirx.iml" filepath="$PROJECT_DIR$/01-eureka/05-eureka-consumer-feign-hystrix-order/05.2-eureka-consumer-feign-hystirx.iml" />
+    </modules>
+  </component>
+</project>

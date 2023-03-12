@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/01-eureka/01-eureka-server-b/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/01-eureka-server-b/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/01-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/02-eureka-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/02-eureka-client-b/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/03-eureka-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/04-eureka-consumer-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/05.1-eureka-hystrix-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/05.1-eureka-hystrix-payment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/05.2-eureka-consumer-feign-hystrix-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/05.3-eureka-consumer-hystrix-dashboar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/05.3-eureka-consumer-hystrix-dashboar/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
